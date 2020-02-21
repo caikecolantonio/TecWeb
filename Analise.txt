@@ -1,0 +1,9 @@
+Análise:
+•	O sistema irá utilizar o GPS para buscar o carro mais próximo.
+•	Cada motorista atenderá uma região de até 3KM podendo expandir em preços dinâmicos.
+•	O sistema irá analisar o destino inicial e final do passageiro para analisar a possibilidade de um passageiro com destinos próximos.
+•	O combustível do veículo será a gasolina.
+•	A distância inicial e final passará por uma checagem para ver se se enquadra na distância máxima do projeto.
+•	Efetuar cadastro de motoristas e passageiros com dados pessoais.
+•	Diversas formas de pagamento como débito, crédito ou dinheiro.
+•	O sistema deve aceitar o cadastro do passageiro através do Facebook, Gmail ou Instagram.
