@@ -1,0 +1,5 @@
+Operação:
+Essa etapa será dividia em 3 partes sendo elas:
+1.	Liberação: Após o fim do processo de desenvolvimento do mesmo é a hora de enviar para o mercado.  Para isso precisamos analisar os recursos necessários para sua operação e implementação.
+2.	Instalação: Onde o devemos tirar do ambiente de produção e deixar tudo pronto para a utilização do usuário.
+3.	Ativação:  O momento o qual enviamos para a Apple Store e a Google Play para suas devidas aprovações nas plataformas. 
