@@ -1,4 +1,0 @@
-Design:
-Será criado um software que, através do GPS do celular, vai identificar a posição em que se encontra o cliente, então irá procurar um carro que esteja mais próximo desse cliente e vai realizar o chamado para o motorista. O motorista terá um limite de 3 km para se deslocar até o passageiro, e as viagens terão distância máxima de 15km. 
-Quando o usuário for realizar o pedido de viagem, deverá selecionar o método de pagamento desejado: débito, crédito ou dinheiro. 
-Para realizar o cadastro, o usuário poderá escolher as redes sociais como base de dados. Em seguida, o login ficará salvo.
