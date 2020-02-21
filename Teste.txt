@@ -1,0 +1,3 @@
+Teste:
+Os primeiros testes seriam na plataforma de pagamento. Colocaremos um cartão de crédito, efetuaremos o pagamento e verificaremos se foi realizado. Depois tentaremos com o cartão de débito. Com esses cartões salvos, tentaremos fazer o pagamento em dinheiro, e verificaremos se algum valor foi cobrado nos cartões.
+Dando continuidade nos testes serão para verificar a chamada e proximidade dos motoristas e dos passageiros.
