@@ -1,0 +1,3 @@
+Codificação:
+Será uma aplicação mobile, a linguagem utilizada será Javascript pois teríamos a facilidade de programar para ambas as plataformas (Android e IOS), e o framework será Reactnative. Como banco de dados usaremos o Google Firebase. 
+Os códigos serão divididos em diversos módulos, para facilitar o controle, entendimento e evitar possíveis erros.
